@@ -7,7 +7,6 @@ import WeatherApp from './WeatherApp';
 function App() {
   return (
     <>
-    {/* <Ex/> */}
 <WeatherApp/>
     </>
   );
